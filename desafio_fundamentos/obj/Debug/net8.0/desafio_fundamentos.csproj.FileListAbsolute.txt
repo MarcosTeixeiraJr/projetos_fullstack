@@ -1,0 +1,15 @@
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\bin\Debug\net8.0\desafio_fundamentos.exe
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\bin\Debug\net8.0\desafio_fundamentos.deps.json
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\bin\Debug\net8.0\desafio_fundamentos.runtimeconfig.json
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\bin\Debug\net8.0\desafio_fundamentos.dll
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\bin\Debug\net8.0\desafio_fundamentos.pdb
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.AssemblyInfoInputs.cache
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.AssemblyInfo.cs
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.csproj.CoreCompileInputs.cache
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.sourcelink.json
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.dll
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\refint\desafio_fundamentos.dll
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.pdb
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\desafio_fundamentos.genruntimeconfig.cache
+C:\Documentos\Estudos\projetos_fullstack\desafio_fundamentos\obj\Debug\net8.0\ref\desafio_fundamentos.dll
