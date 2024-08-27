@@ -1,0 +1,15 @@
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.exe
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.deps.json
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.sourcelink.json
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\refint\DesafioProjetoHospedagem.dll
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Documentos\Estudos\projetos_fullstack\DesafioProjetoHospedagem\obj\Debug\net8.0\ref\DesafioProjetoHospedagem.dll
