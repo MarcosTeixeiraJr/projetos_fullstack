@@ -1,0 +1,15 @@
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\bin\Debug\net8.0\DesafioPOO.exe
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\bin\Debug\net8.0\DesafioPOO.deps.json
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\bin\Debug\net8.0\DesafioPOO.runtimeconfig.json
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\bin\Debug\net8.0\DesafioPOO.dll
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\bin\Debug\net8.0\DesafioPOO.pdb
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.AssemblyInfo.cs
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.sourcelink.json
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.dll
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\refint\DesafioPOO.dll
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.pdb
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\DesafioPOO.genruntimeconfig.cache
+C:\Documentos\Estudos\projetos_fullstack\DesafioPOO\obj\Debug\net8.0\ref\DesafioPOO.dll
